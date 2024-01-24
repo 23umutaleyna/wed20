@@ -1,3 +1,5 @@
 print("merhaba nuri");
 print("merhaba özhan dinç");
 print("merhaba çetin ömer");
+print("merhaba mars");
+print("kalemci zeki tuna");
